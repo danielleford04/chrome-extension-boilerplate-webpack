@@ -9,9 +9,5 @@
     "default_popup": "popup.html",
     "default_icon": "image-icon.png"
   },
-  "permissions": [
-    "activeTab",
-    "scripting"
-  ],
   "manifest_version": 3
 }
