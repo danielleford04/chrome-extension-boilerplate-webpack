@@ -1,0 +1,17 @@
+{
+  "name": "Chrome Extension with Webpack Boilerplate",
+  "description": "Chrome Extension with Webpack Boilerplate",
+  "version": "0.1.0",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "image-icon.png"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "manifest_version": 3
+}
