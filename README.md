@@ -1,5 +1,7 @@
 # Chrome Extension With Webpack Boilerplate
 
+This is a basic boilerplate for a Chrome extension using Webpack. As is, if the user loads the extension into Chrome and clicks the extension icon, it will open a pop-up that says "Hello World."
+
 ## Install and run the extension:
 1. Run `npm install` to install dependencies.
 2. Run `npm start` to start the development server.
